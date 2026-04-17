@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# GTC 数据文件（太大不提交）
+data/*.out
+data/*.dat
+data/*.mat
+
+# 生成的图表
+data/*.png
+data/*.pdf
+*.png
+*.pdf
+
+# 日志
+*.log
