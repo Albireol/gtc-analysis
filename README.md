@@ -174,6 +174,4 @@ python main.py
 - 原始 MATLAB: Hua-sheng XIE, Yuehao Ma
 - Python 重构：Albireo
 
-## 📄 License
 
-MIT License
